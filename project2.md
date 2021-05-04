@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/33117664/116297508-3c61b700-a793-11eb-9032-e0e5404fb2e5.png)
 ![image](https://user-images.githubusercontent.com/33117664/116304405-72ef0000-a79a-11eb-8872-0d6369cf219b.png)
 ![image](https://user-images.githubusercontent.com/33117664/116304666-b9dcf580-a79a-11eb-88ea-95865d0c6667.png)
-- I allowed port 80 in AWS security group for the HTTP protocol.
+- I allowed *port 80* in AWS security group for the HTTP protocol.
 - I successfully ran the curl commands and tested the apache connectioon via a web browser using the instance public IP address.
 ![image](https://user-images.githubusercontent.com/33117664/116304891-f4469280-a79a-11eb-993c-e7f69881f8fb.png)
 ![image](https://user-images.githubusercontent.com/33117664/116304955-058f9f00-a79b-11eb-8abd-0b3d2207858c.png)
